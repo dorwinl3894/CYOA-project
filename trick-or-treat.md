@@ -1,4 +1,4 @@
-#### Where do you want to go trick-or-treating 
+#### Where do you want to go trick-or-treating?
 
 ![two-paths](images/location.jpg)
 
