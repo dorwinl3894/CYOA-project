@@ -11,9 +11,9 @@
 
 =======
 #### Link to begin
-Click [Me](cd halloween.md) 
+[Click Me to begin](halloween.md) 
 
 ---
 #### Link to Google Drawing
 
-[Be responsible, check your emails.](virus.md) 
+[Click me to see our gDrawing](https://docs.google.com/drawings/d/1Tw-qG94RAW8RKg8KlzX2ymmxangc8wy_QHn9S7Lh_v8/edit?usp=sharing) 
