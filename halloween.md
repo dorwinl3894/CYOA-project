@@ -3,5 +3,5 @@
 ![friends image](images/friends.jpg)
 
 
-* [Yes I do!]()  
-* [No I don't]()
+* [Yes I do!](trick-or-treat.md)  
+* [No I don't](trick-or-treat.md)
