@@ -16,3 +16,4 @@ Click [Me](cd halloween.md)
 ---
 #### Link to Google Drawing
 
+[Be responsible, check your emails.](virus.md) 
