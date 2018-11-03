@@ -2,5 +2,5 @@
 
 ![creepyoldguy](images/oldguy.jpg)
 
-[Follow him to his house](house.md)  
-[Run away](trees.md)
+1. [Follow him to his house](house.md)  
+2. [Run away](trees.md)
