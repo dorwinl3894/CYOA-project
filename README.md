@@ -11,8 +11,8 @@
 
 
 
-#### Link to begin
-[Click Me to begin](halloween.md) 
+### See if you can find all of the endings!
+[Click here to begin!](halloween.md) 
 
 ---
 #### Link to Google Drawing
