@@ -3,5 +3,5 @@
 ![demon image](images/Skincrawler.jpg)
 
 
-* [Run As Fast As You Can!](building.md)
+* [Get Out Of There Quick!](building.md)
 * [Fight Them With Your Friend!](eaten.md)
