@@ -1,4 +1,4 @@
-#### You meet a creepy old man. He says he has candy at his house across the block.
+### You meet a creepy old man. He says he has candy at his house across the block.
 
 ![creepyoldguy](images/oldguy.jpg)
 

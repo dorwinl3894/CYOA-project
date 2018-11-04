@@ -1,4 +1,4 @@
-#### Pick a place to go trick-or-treating!
+### Pick a place to go trick-or-treating!
 
 ![location image](images/location.jpg)
 

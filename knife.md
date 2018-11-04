@@ -1,4 +1,4 @@
-#### Turns out you have been lied to and now you're dead!
+### Turns out you have been lied to and now you're dead!
 
 ![rip](images/rip.png)
 

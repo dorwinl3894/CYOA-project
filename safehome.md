@@ -1,4 +1,4 @@
-#### You made it out alive! You go home and have a good rest of your day.
+### You made it out alive! You go home and have a good rest of your day.
 
 ![safe-house](images/safe-house.jpg)
 
