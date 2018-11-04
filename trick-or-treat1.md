@@ -5,4 +5,4 @@
 
 
 * [Popular Area](popular.md)
-* [Quiet Area](quiet.md)
+* [Rural Place](quiet.md)
