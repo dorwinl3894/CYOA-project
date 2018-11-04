@@ -11,7 +11,7 @@
 
 
 
-### See if you can find all of the endings!
+### See if you can unlock all the endings!
 [Click here to begin!](halloween.md) 
 
 ---
