@@ -1,5 +1,5 @@
 # Create Your Own Adventure Project 
-##### By Dorwin Liang and Nick Irizarri  
+##### By [Dorwin Liang](https://github.com/dorwinl3894) and [Nick Irizarri](https://github.com/nicholasi1404)  
 ---
 #### Purpose of this project
 * Learn more about links in Markdown as well as polish our Git and Github skills 📚
