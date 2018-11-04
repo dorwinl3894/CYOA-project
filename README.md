@@ -2,7 +2,8 @@
 ##### By Dorwin Liang and Nick Irizarri  
 ---
 #### Purpose of this project
-* Learn more about links in Markdown aswell as polish our Git and Github skills 📚   
+* Learn more about links in Markdown as well as polish our Git and Github skills 📚
+* Practice Collaboration
 * To have fun because there are a lot of choices that can be made in this adventure 
 * Celebrating the halloween spirit 🎃
 
