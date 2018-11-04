@@ -2,4 +2,4 @@
 ![old-guys-house](images/house.jpg)  
 
 1. [Ask him for candy and hope for the best](knife.md)  
-2. [Fight him and escape](safehome.md)
+2. [Attempt to fight him!](safehome.md)
