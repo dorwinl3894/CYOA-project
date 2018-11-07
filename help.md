@@ -1,4 +1,4 @@
-### They agree to help you and the old guy dies and you run back home.
+### They agree to help you and sacrifice the old guy. You run back home and survive!
 
 ![rip](images/celebration.jpeg)  
 
