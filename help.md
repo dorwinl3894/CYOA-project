@@ -1,5 +1,5 @@
-### They agree to help you if you sacrifce yourself to the devil. You agree and both you and the old guy dies.
+### They agree to help you and the old guy dies and you run back home.
 
-![rip](images/rip.jpg)
+![rip](images/celebration.jpeg)  
 
-* [Try again!](halloween.md)
+* [Go trick or treating again!](halloween.md)
